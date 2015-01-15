@@ -1,0 +1,13 @@
+# Site settings
+title: Red C Tech, LLC
+email: redctechllc@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Red C Tech, LLC offers solutions to problems through
+    consulting and sometimes that involves building software.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://redctech.com"
+twitter_username: redctech
+github_username:  redctech
+
+# Build settings
+markdown: kramdown
