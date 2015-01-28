@@ -12,4 +12,5 @@ Provided you have ruby installed:
     gem install jekyll
     jekyll serve
 
-Please submit PRs for any mistakes you may find. Thanks!
+Please submit [PRs](https://github.com/redctech/redctech.github.io/issues) for any mistakes you
+may find. Thanks!
