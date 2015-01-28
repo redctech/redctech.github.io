@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New Year"
+date:   2015-01-14 20:44:18
+categories: blogs
+---
+
+A new year begins. A new company is formed. The posts here will be pertinent to
+those who own and operate a sole proprietorship and/or do software development.
