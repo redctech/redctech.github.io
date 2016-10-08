@@ -13,4 +13,4 @@ deploy:
   region: us-west-2
   skip_cleanup: true
   on:
-    repo: rectech/redctech.github.io
+    repo: redctech/redctech.github.io
